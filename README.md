@@ -12,6 +12,7 @@ Vue.js + express + mongoDB , todo app
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/vue_spa_21
 
 ***
 
