@@ -16,7 +16,7 @@
     "vue-router": "^3.0.1",
     "mongodb": "^2.2.25",
     "monk": "^4.0.0",
-    "marked": "^0.6.2"
+    "marked": "^4.0.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
